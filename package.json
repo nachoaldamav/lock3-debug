@@ -1,0 +1,13 @@
+{
+  "name": "pnpmfail",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@algolia/transporter": "^4.13.1",
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.3.0"
+  },
+  "packageManager": "npm@7.24.2"
+}
